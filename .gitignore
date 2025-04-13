@@ -185,3 +185,5 @@ wheels/
 # Virtual environments
 .venv
 >>>>>>> 2075a16 (initialize project)
+
+.idea

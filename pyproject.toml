@@ -31,5 +31,10 @@ dependencies = [
   "tqdm",
   "pandas",
   "transformers",
-  "rich"
+  "rich",
+  "langchain",
+  "langchain_community",
+  "pymupdf",
+  "accelerate",
+  "faiss-cpu",
 ]

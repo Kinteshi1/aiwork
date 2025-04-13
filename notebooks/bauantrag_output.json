@@ -1,0 +1,24 @@
+{
+  "projekt": {
+    "bauprojekt_art": null,
+    "geplante_nutzung": null,
+    "gebaeudehoehe_geplant": null,
+    "barrierefreiheit_geplant": null
+  },
+  "grundstueck": {
+    "adresse_strasse_nr": null,
+    "adresse_plz_ort": null,
+    "grundstueckflaeche_qm": null,
+    "liegt_in_schutzgebiet": null
+  },
+  "antragsteller": {
+    "name_vorname": null,
+    "anschrift": null,
+    "telefonnummer": null,
+    "email": null,
+    "ist_grundstueck_eigentuemer": null
+  },
+  "architekt_beauftragt": null,
+  "geplanter_baubeginn": null,
+  "energieeffizienzklasse_angestrebt": null
+}
